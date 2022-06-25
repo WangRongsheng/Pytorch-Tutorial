@@ -19,12 +19,7 @@ torchvision               0.11.2+cu102
 - [https://pytorch-cn.readthedocs.io/zh/latest/](https://pytorch-cn.readthedocs.io/zh/latest/)
 - [https://pytorch.apachecn.org/](https://pytorch.apachecn.org/)
 - [https://ptorch.com/](https://ptorch.com/docs/1/)
-- ...
 
 > 中文文档千千万，唯有官方最给力！
 
 > 在练习之前，我强烈推荐[VSCode](https://code.visualstudio.com/) 和[Github Copilot](https://blog.csdn.net/smset028/article/details/122960913)
-
-## 1、前置知识
-
-## ...
